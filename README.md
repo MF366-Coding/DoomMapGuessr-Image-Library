@@ -24,6 +24,10 @@ Anyone is welcome to contribute to this image library, however certain rules mus
 7. **(Small note - not applicable to DOOM 64)** Some source ports (like GZDoom) sometimes display `-0` as a coordinate. Consider it to be `0`.
 8. **(Not applicable to DOOM 64)** Rename the screenshot to match the following convention: `<x value>_<y value>_<z value>_TO-BE-RANKED.<format>` (example: `-551_35_0_TO-BE-RANKED.png`). Only JPG/PNG are accepted, preferably with ratio 16:9, although 1:1 is equally acccepted.
 9. **(Applicable to DOOM 64 ONLY)** Rename the screenshot to match the following convention: `DOOM64_MAP<map number>_<screenshot index>_TO-BE-RANKED.<format>` (example: `DOOM64_MAP03_6_TO-BE-RANKED.jpg`). Only JPG/PNG are accepted, preferably with ratio 16:9, although 1:1 is equally acccepted. Screenshot index starts at 0.
+10. **DO NOT MAKE CHANGES TO THE DATABASE!** Changes to the official database are forbidden. Your Pull Request may add 10000 screenshots for all I care - if it has DB changes, it's getting rejected.
+
+**Note (not applicable to DOOM 64)**
+The image library does not care about the coordinates - only DoomMapGuessr does. That's why screenshots that have been accepted, ranked, evaluated and added to the database by Matthew will have their names changed to something simpler, for simplification purposes.
 
 **Actual Contribution**
 1. Place the screenshot(s) in their correct folders, respecting the `Game -> Episode -> Map` structure.
