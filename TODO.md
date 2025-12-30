@@ -279,8 +279,8 @@ Ranking, evaluating and adding to database.
 		- [ ] **E4M8** (lacking 20+ screenshots)
 		- [ ] **E4M9** (lacking 20+ screenshots)
 - [ ] **DOOM II: Hell on Earth**
-	- [ ] **MAP01** (18/20 screenshots to be processed)
-	- [ ] **MAP02** (20/20 screenshots to be processed)
+	- [ ] **MAP01** (4/20 screenshots processed)
+	- [ ] **MAP02** (0/20 screenshots processed)
 	- [ ] **MAP03** (lacking 20+ screenshots)
 	- [ ] **MAP04** (lacking 20+ screenshots)
 	- [ ] **MAP05** (lacking 20+ screenshots)
