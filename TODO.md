@@ -46,7 +46,7 @@ Screenshots. 20 is the minimum per level. Don't exceed 40.
 		- [ ] **E4M8** (lacking 20+ screenshots)
 		- [ ] **E4M9** (lacking 20+ screenshots)
 - [ ] **DOOM II: Hell on Earth**
-	- [X] **MAP01** (20/20 screenshots, no reason to have more from my point of view)
+	- [X] **MAP01** (21/20 screenshots, no reason to have more from my point of view)
 	- [X] **MAP02** (20/20 screenshots, if you really want to add more, go ahead, but maybe not necessary??)
 	- [ ] **MAP03** (lacking 20+ screenshots)
 	- [ ] **MAP04** (lacking 20+ screenshots)
@@ -279,8 +279,8 @@ Ranking, evaluating and adding to database.
 		- [ ] **E4M8** (lacking 20+ screenshots)
 		- [ ] **E4M9** (lacking 20+ screenshots)
 - [ ] **DOOM II: Hell on Earth**
-	- [ ] **MAP01** (4/20 screenshots processed)
-	- [ ] **MAP02** (0/20 screenshots processed)
+	- [X] **MAP01** (21/21 screenshots processed)
+	- [X] **MAP02** (20/20 screenshots processed)
 	- [ ] **MAP03** (lacking 20+ screenshots)
 	- [ ] **MAP04** (lacking 20+ screenshots)
 	- [ ] **MAP05** (lacking 20+ screenshots)
