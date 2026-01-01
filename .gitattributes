@@ -1,0 +1,33 @@
+# Images are binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.gif   binary
+*.webp  binary
+*.bmp   binary
+*.tif   binary
+*.tiff  binary
+*.ico   binary
+*.psd   binary
+*.heic  binary
+*.avif  binary
+
+# SVG must be treated as XML (text)
+*.svg   text
+
+# Not expecting audio or video but in case it happens, binary
+*.mp3   binary
+*.wav   binary
+*.ogg   binary
+*.mp4   binary
+*.mov   binary
+
+# Use Git LFS for large binary files (requires git-lfs installed)
+# Uncomment the types you want tracked by LFS, then run: git lfs install && git lfs track "<pattern>"
+#*.png  filter=lfs diff=lfs merge=lfs -text
+#*.jpg  filter=lfs diff=lfs merge=lfs -text
+#*.zip  filter=lfs diff=lfs merge=lfs -text
+
+# Python is still Python tho
+*.py    text
+*.py    linguist-language=Python
