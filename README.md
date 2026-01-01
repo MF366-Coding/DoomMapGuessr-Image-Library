@@ -23,7 +23,7 @@ Anyone is welcome to contribute to this image library, however certain rules mus
 6. **(Not applicable to DOOM 64)** Upon registering the position (X, Y and Z - angle is not necessary), remove all clutter from the screen (in GZDoom, this means setting screen size to the maximum value in order to remove all HUD) and take the actual screenshot.
 7. **(Small note - not applicable to DOOM 64)** Some source ports (like GZDoom) sometimes display `-0` as a coordinate. Consider it to be `0`.
 8. **(Not applicable to DOOM 64)** Rename the screenshot to match the following convention: `<x value>_<y value>_<z value>_TO-BE-RANKED.<format>` (example: `-551_35_0_TO-BE-RANKED.png`). Only JPG/PNG are accepted, preferably with ratio 16:9, although 1:1 is equally acccepted.
-9. **(Applicable to DOOM 64 ONLY)** Rename the screenshot to match the following convention: `DOOM64_MAP<map number>_<screenshot index>_TO-BE-RANKED.<format>` (example: `DOOM64_MAP03_6_TO-BE-RANKED.jpg`). Only JPG/PNG are accepted, preferably with ratio 16:9, although 1:1 is equally acccepted. Screenshot index starts at 0.
+9. **(Applicable to DOOM 64 ONLY)** Rename the screenshot to match the following convention: `DOOM64_MAP<map number>_<screenshot index padded to len 3>_TO-BE-RANKED.<format>` (example: `DOOM64_MAP03_006_TO-BE-RANKED.jpg`). Only JPG/PNG are accepted, preferably with ratio 16:9, although 1:1 is equally acccepted. Screenshot index starts at 0.
 10. **DO NOT MAKE CHANGES TO THE DATABASE!** Changes to the official database are forbidden. Your Pull Request may add 10000 screenshots for all I care - if it has DB changes, it's getting rejected.
 
 **Note (not applicable to DOOM 64)**

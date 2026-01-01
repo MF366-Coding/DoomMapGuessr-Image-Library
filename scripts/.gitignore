@@ -1,2 +1,4 @@
 maintenance-toolkit-v[12].py
 .venv/*
+add-to-db.py
+url-fixer*.py
